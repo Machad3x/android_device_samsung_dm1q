@@ -26,6 +26,7 @@ DEVICE_PACKAGE_OVERLAYS += \
 
 PRODUCT_PACKAGES += \
     FrameworksResDm1q \
+    LineageResDm1q \
     SystemUIResDm1q \
     WifiResTargetDm1q
 
